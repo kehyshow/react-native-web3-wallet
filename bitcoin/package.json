@@ -17,14 +17,14 @@
     "bitcoinjs",
     "wallet"
   ],
-  "author": "heroims",
+  "author": "kehyshow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heroims/react-native-web3-wallet/issues"
+    "url": "https://github.com/kehyshow/react-native-web3-wallet/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroims/react-native-web3-wallet.git"
+    "url": "git+https://github.com/kehyshow/react-native-web3-wallet.git"
   },
   "peerDependencies": {
     "react-native": ">=0.70.0"
